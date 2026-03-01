@@ -7,3 +7,5 @@ ministradas pelo Prof. Carlos Menezes. O objetivo é fornecer exemplos práticos
 ## Estrutura do Repositório
 - `aula-XX/`: Exercícios de cada aula
 - `projetos/`: Projetos maiores
+
+https://fatecpem.blogspot.com
